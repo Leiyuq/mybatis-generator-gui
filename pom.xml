@@ -3,7 +3,6 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.zzg</groupId>
     <artifactId>mybatis-generator-gui</artifactId>
-         <packaging>war</packaging>
     <version>0.8.4</version>
 
     <properties>
